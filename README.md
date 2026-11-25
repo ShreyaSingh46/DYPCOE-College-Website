@@ -1,32 +1,40 @@
 # DYPCOE College Website
 
-A simple college website created using HTML, CSS and JavaScript.
+A responsive college website built with HTML, CSS, and JavaScript as a frontend development project.
 
 ## Features
 
-- Home page
-- Departments page
-- Faculty page
-- Login and Signup
-- Local Storage for user data
-- JSON data fetching using Fetch API
-- Async and Await
-- Try and Catch error handling
-- Responsive design using CSS media queries
+- Home page and department information.
+- Faculty page.
+- Login and sign-up interface.
+- Local Storage usage for user data.
+- JSON data fetching with the Fetch API.
+- Asynchronous JavaScript using `async` and `await`.
+- Error handling with `try` and `catch`.
+- Responsive layout using CSS media queries.
 
 ## Technologies Used
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - JSON
 - Fetch API
-- Local Storage
+- Browser Local Storage
 
-## How to Run
+## Run Locally
 
-1. Download or clone the repository.
-2. Open the project in Visual Studio Code.
-3. Install the Live Server extension.
-4. Right-click index.html.
-5. Select Open with Live Server.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ShreyaSingh46/DYPCOE-College-Website.git
+   cd DYPCOE-College-Website
+   ```
+
+2. Open the folder in Visual Studio Code.
+3. Install the Live Server extension if it is not already installed.
+4. Open `index.html` with Live Server.
+
+## What This Project Demonstrates
+
+This project provides practice with structuring a multi-page website, styling responsive layouts, working with browser storage, fetching JSON data, and handling asynchronous JavaScript operations.
